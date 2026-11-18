@@ -1,10 +1,10 @@
 # Python Projects
 
- My practice programs while learning Python (beginner level).
+My practice programs while learning Python (beginner level).
 
- File and What it practises:
+Files:
 
- user_input.py --> Taking input from the user 
- string_handling.py --> Working with text (strings) 
- if_else.py --> Making decisions with if, elif and else 
- multiple_assignment_type_casting.py --> Assigning several variables at once and changing data types 
+- User Input.py: taking input from the user
+- String handling.py: working with text
+- If else.py: making decisions with if, elif and else
+- Multiple Assignment & Type Casting.py: assigning many variables at once and changing data types
